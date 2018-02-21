@@ -1,8 +1,8 @@
 ---
 layout: post
-title: “চরম পানি সংকটে বরেন্দ্র অঞ্চল” : “তানোরের বাঁধাইড় ইউনিয়ন পানি সংকটপূর্ণ ঘোষনা হচ্ছে”
+title: তানোরের বাঁধাইড় ইউনিয়ন পানি সংকটপূর্ণ ঘোষনা হচ্ছে
 date: 2017-04-06 17:18
-author: iwrmbarind
+author: Suman
 comments: true
 categories: [Newspaper]
 ---

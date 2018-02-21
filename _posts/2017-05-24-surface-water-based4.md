@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Surface water-based irrigation vital for aquifer recharge: Experts
+title: Surface water-based irrigation vital for aquifer recharge
 date: 2017-05-24 12:27
-author: iwrmbarind
+author: Suman
 comments: true
 categories: [IWRM, Newspaper]
 ---
