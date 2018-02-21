@@ -13,8 +13,11 @@ cayman-blog:
 
 theme: # leave it empty
 
+gems:
+  - jekyll-feed
+
 # social
-author: "Lore Pirri"
+author: "Suman"
 image: /thumbnail-jumbo.png
 twitter:
   username: oporazito
