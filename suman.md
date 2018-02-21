@@ -5,9 +5,6 @@ tagline: Suman and IWRM
 permalink: /suman.html
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
-
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
-
+The page is under development.: [My Facebook](https://facebook.com/suman1971)
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
