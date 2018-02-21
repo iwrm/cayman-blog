@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Consultant Review: IWRM for the Barind Tract area in Bangladesh
+title: Consultant Review IWRM for the Barind Tract in Bangladesh
 date: 2017-03-17 17:32
-author: iwrmbarind
+author: Suman
 comments: true
 categories: [4R, Consultant, IWRM]
 ---
