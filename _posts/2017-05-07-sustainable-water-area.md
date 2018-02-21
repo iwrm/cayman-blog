@@ -2,7 +2,7 @@
 layout: post
 title: Sustainable water resource management progressing fast in Barind area
 date: 2017-05-07 12:04
-author: iwrmbarind
+author: Suman
 comments: true
 categories: [IWRM, Newspaper]
 ---

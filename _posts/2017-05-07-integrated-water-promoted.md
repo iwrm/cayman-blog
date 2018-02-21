@@ -2,11 +2,11 @@
 layout: post
 title: Integrated water resource management being promoted in Barind
 date: 2017-05-07 12:06
-author: iwrmbarind
+author: Suman
 comments: true
 categories: [IWRM, Newspaper]
 ---
-RAJSHAHI, May 6, 2017 (BSS)- An initiative has been taken to promote integrated water resource management in Barind area in order <img class="img-thumbnail nPic" src="http://bssnews.net/news_image/2017-05-06_bss-01_794326.jpg" align="left" border="0" />to reduce its existing water- stressed condition.
+RAJSHAHI, May 6, 2017 (BSS)- An initiative has been taken to promote integrated water resource management in Barind area in order <img class="img-thumbnail nPic" src="http://bssnews.net/news_image/2017-05-06_bss-01_794326.jpg" align="right" border="0" /> to reduce its existing water- stressed condition.
 Swiss Red Cross and DASCOH Foundation have jointly started implementation works of 'Integrated Water Resource Management (IWRM)' Project for sustainable management of existing water resources in Barind area.
 
 The project is being implemented in drought and arsenic affected 35 Unions and four Pourasavas under Rajshahi and Chapainawabgonj districts since 2015 with financial support of SDC. Under the project, Water Resource Planning Organization (WARPO) has been working for formulating water related policies and time-fitting rules and regulations as state part.
