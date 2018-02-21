@@ -15,6 +15,7 @@ theme: # leave it empty
 
 gems:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # social
 author: "Suman"
